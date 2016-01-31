@@ -5,13 +5,13 @@ title: Proje Ekibi
 
 (soyadı sırasına göre)
 
-##Ekip Kagan Etka YÖRÜK
+##Kagan Etka YÖRÜK
 
 Ekip üyesi hakkında kısa bilgi.
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+<a href="https://www.linkedin.com/profile/preview?locale=tr_TR&trk=prof-0-sb-preview-primary-button" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
 <!-- 
 <a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
 -->
@@ -20,7 +20,7 @@ Ekip üyesi hakkında kısa bilgi.
 <a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
 </p>
 
-##Ekip Furkan TUNÇ
+##Furkan TUNÇ
 
 Ekip üyesi hakkında kısa bilgi.
 
