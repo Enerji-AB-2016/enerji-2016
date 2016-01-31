@@ -8,8 +8,8 @@ markdown: 			 redcarpet
 
 # Setup
 title:               Türkiye Elektrik Enerji Üretimi
-tagline:             'Akademik Bilişim 2016'
-description:         'Türkiye de üretilen enerjinin dağılımı'
+tagline:             '1970-2013'
+description:         'Türkiyede 1970 ile 2013 yılları arasında üretilen elektrik enerjisinin dağılımı '
 url:                 
 baseurl:             '/enerji-2016'
 paginate:            5
