@@ -7,8 +7,8 @@ markdown: 			 redcarpet
 #relative_permalinks: true
 
 # Setup
-title:               Türkiye Elektrik Enerji Üretimi
-tagline:             '1970-2013'
+title:               Türkiye Elektrik Üretimi
+tagline:             '1970-2013 Yılları Arası'
 description:         'Türkiyede 1970 ile 2013 yılları arasında üretilen elektrik enerjisinin dağılımı '
 url:                 
 baseurl:             '/enerji-2016'
