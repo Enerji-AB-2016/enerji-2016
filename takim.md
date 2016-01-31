@@ -5,7 +5,7 @@ title: Proje Ekibi
 
 (soyadı sırasına göre)
 
-##Ekip Üyesi 1
+##Ekip Kagan Etka YÖRÜK
 
 Ekip üyesi hakkında kısa bilgi.
 
@@ -20,7 +20,7 @@ Ekip üyesi hakkında kısa bilgi.
 <a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
 </p>
 
-##Ekip Üyesi 2
+##Ekip Furkan TUNÇ
 
 Ekip üyesi hakkında kısa bilgi.
 
