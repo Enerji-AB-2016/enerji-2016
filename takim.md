@@ -7,7 +7,7 @@ title: Proje Ekibi
 
 ##Kagan Etka YÖRÜK
 
-Ekip üyesi hakkında kısa bilgi.
+Istanbul Teknik Üniversitesi Moleküler Biyoloji ve Genetik
 
 <p>
 <a href="https://github.com/kaganetka" target="_blank"><i class="fa fa-github fa-2x"></i></a>
@@ -20,7 +20,7 @@ Ekip üyesi hakkında kısa bilgi.
 
 ##Furkan TUNÇ
 
-Ekip üyesi hakkında kısa bilgi.
+Istanbul Teknik Üniversitesi Moleküler Biyoloji ve Genetik
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
@@ -28,8 +28,5 @@ Ekip üyesi hakkında kısa bilgi.
 <!-- 
 <a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
 -->
-<a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-globe fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
 </p>
 
