@@ -7,17 +7,17 @@ markdown: 			 redcarpet
 #relative_permalinks: true
 
 # Setup
-title:               R-338 (Renk) Takım Proje Sayfası
+title:               R-338 Enerji-2016
 tagline:             'Akademik Bilişim 2016'
-description:         'Kısa proje tanımını buraya girin'
-url:                 http://r338.github.io/ab-2016
-baseurl:             '/takim-taslak'
+description:         'Türkiye de üretilen enerjinin dağılımı'
+url:                 
+baseurl:             '/enerji-2016'
 paginate:            5
 
 # About/contact
 author:
   name:              'Takım elemanları'
-  url:               http://r338.github.io/takim-taslak
+  url:               
   email:             
 
 # Custom vars
