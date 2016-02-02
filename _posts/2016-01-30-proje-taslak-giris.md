@@ -4,9 +4,9 @@ title: Proje Sayfası
 date: 2016-01-30 12:00:00 +02:00
 ---
 
-  1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Amalizi
+  **1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Amalizi**
   
-  
+  ```{r}
   mydata=read_excel('enerjiuretimi.xls')
   mydata2=mydata %>%
   mutate(Toplam_komur=((Toplam*Komur)/100))%>%
@@ -67,6 +67,6 @@ date: 2016-01-30 12:00:00 +02:00
   labels=c("ortalama_alter","ortalama_hidrolik","ortalama_gaz","ortalama_sivi","ortalama_komur"))
   percentlabels = round(100*B/sum(B), 1)
   pielabels =paste(percentlabels, "%", sep="")
-
+  ```
 
 
