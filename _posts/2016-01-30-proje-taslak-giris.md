@@ -4,7 +4,7 @@ title: Proje Sayfası
 date: 2016-01-30 12:00:00 +02:00
 ---
 
-  ##**1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Amalizi**
+  **1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Amalizi**
   
 ```
 mydata=read_excel('enerjiuretimi.xls')
@@ -56,9 +56,9 @@ B <- c(1.334982,23.21947,45.95544,2.724251,26.76586)
   percentlabels = round(100*B/sum(B), 1)
   pielabels =paste(percentlabels, "%", sep="")
 ```
-![alt text](figures/1.jpg)
-![alt text](figures/2.jpg)
 ![alt text](figures/3.jpg)
 ![alt text](figures/4.jpg)
+![alt text](figures/2.jpg)
+![alt text](figures/1.jpg)
 
 
