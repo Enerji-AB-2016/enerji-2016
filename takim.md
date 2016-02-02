@@ -5,7 +5,7 @@ title: Proje Ekibi
 
 
 
-##Kagan Etka YÖRÜK
+Kagan Etka YÖRÜK
 
 Istanbul Teknik Üniversitesi Moleküler Biyoloji ve Genetik
 
@@ -18,7 +18,7 @@ Istanbul Teknik Üniversitesi Moleküler Biyoloji ve Genetik
 <a href="https://twitter.com/YRKEtka" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
 </p>
 
-##Furkan TUNÇ
+Furkan TUNÇ
 
 Istanbul Teknik Üniversitesi Moleküler Biyoloji ve Genetik
 
