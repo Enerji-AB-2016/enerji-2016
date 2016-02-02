@@ -68,5 +68,5 @@ date: 2016-01-30 12:00:00 +02:00
   percentlabels = round(100*B/sum(B), 1)
   pielabels =paste(percentlabels, "%", sep="")
   ```
-
+![alt text](figures/1.jpg)
 
