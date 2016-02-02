@@ -5,7 +5,9 @@ date: 2016-01-30 12:00:00 +02:00
 ---
 
   **1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Amalizi**
-  
+  **Veri Kaynağı:**[linked phrase](http://www.tuik.gov.tr/PreTablo.do?alt_id=1029 )
+  **R kodları;**
+	
 ```
 mydata=read_excel('enerjiuretimi.xls')
 mydata2=mydata %>%
@@ -56,6 +58,7 @@ B <- c(1.334982,23.21947,45.95544,2.724251,26.76586)
   percentlabels = round(100*B/sum(B), 1)
   pielabels =paste(percentlabels, "%", sep="")
 ```
+**Analiz Grafikleri**
 ![alt text](figures/3.jpg)
 ![alt text](figures/4.jpg)
 ![alt text](figures/2.jpg)
