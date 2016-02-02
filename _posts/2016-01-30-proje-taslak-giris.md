@@ -4,8 +4,10 @@ title: Proje Sayfası
 date: 2016-01-30 12:00:00 +02:00
 ---
 
-  **1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Amalizi**
-  **Veri Kaynağı:**[linked phrase](http://www.tuik.gov.tr/PreTablo.do?alt_id=1029 )
+  **1970-2013 Yılları Arası Üretilen Sektörel Elektrik Miktarının Analizi**
+  
+  **Veri Kaynağı:** http://www.tuik.gov.tr/PreTablo.do?alt_id=1029
+  
   **R kodları;**
 	
 ```
